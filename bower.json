@@ -1,0 +1,15 @@
+{
+  "name": "rephone.co",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flatui": "*",
+    "fontawesome": "~4.4.0"
+  }
+}
